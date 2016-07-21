@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Helvetica-Neue";
+    src: url(assets/paypal/fonts/HelveticaNeue.dfont);
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(assets/brainstation/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(assets/brainstation/fonts/Roboto-Bold.ttf);
+    font-weight:bold;
+}
+
+
+@font-face {
+    font-family: "FrutigerNextPro";
+    src: url(assets/deloitte/fonts/FrutigerNextPro-Medium.otf);
+    font-weight:normal;
+}
+@font-face {
+    font-family: "FrutigerNextPro";
+    src: url(assets/deloitte/fonts/FrutigerNextPro-Bold.otf);
+    font-weight:bold;
+}
+
+@font-face {
+    font-family: "FrutigerNextPro";
+    src: url(assets/deloitte/fonts/FrutigerNextPro-Light.otf);
+    font-weight:light;
+}
+@font-face {
+    font-family: "FrutigerNextPro";
+    src: url(assets/deloitte/fonts/FrutigerNextPro-LightIta.otf);
+    font-style:italic;
+}
+
+@font-face {
+    font-family: "";
+    src: url();
+}
